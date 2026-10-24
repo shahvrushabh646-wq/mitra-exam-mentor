@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Mitra">
+  <rect width="32" height="32" rx="8" fill="#0f6e6b"/>
+  <path fill="#f3efe6" d="M6.4 24V8h4.1l5.5 9.1L21.5 8H25.6v16h-3.7V14.2L17.6 21h-3.2l-4.3-6.8V24H6.4z"/>
+  <rect x="8" y="25.2" width="16" height="2.1" rx="1" fill="#c56a12"/>
+</svg>
